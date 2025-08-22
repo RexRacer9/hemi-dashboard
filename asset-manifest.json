@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hemi-dashboard/static/css/main.53128721.css",
+    "main.js": "/hemi-dashboard/static/js/main.56d1adba.js",
+    "index.html": "/hemi-dashboard/index.html",
+    "main.53128721.css.map": "/hemi-dashboard/static/css/main.53128721.css.map",
+    "main.56d1adba.js.map": "/hemi-dashboard/static/js/main.56d1adba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53128721.css",
+    "static/js/main.56d1adba.js"
+  ]
+}
