@@ -2,13 +2,13 @@
   "name": "hemi-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{your-github-username}.github.io/{your-repo-name}",
+  "homepage": "https://rexracer9.github.io/hemi-dashboard",
   "dependencies": {
     "lucide-react": "^0.303.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "recharts": "^2.10.3",
-    "react-scripts": "5.0.1"
+    "react-scripts": "^0.0.0",
+    "recharts": "^2.10.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,7 +37,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^3.4.1"
   }
 }
