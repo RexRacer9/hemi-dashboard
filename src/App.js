@@ -49,8 +49,9 @@ mockApiData.wtiOil.historical[89].close = "85.50";
 mockApiData.wtiOil.historical[88].close = "84.75";
 
 // API Keys
-const FRED_API_KEY = 'd32234a84e81e3bf1bb2c8ab429cc030';
-const FMP_API_KEY = 'WSV7QCGnwUpEMHFa8gQTV0QF54yu59YV';
+// API Keys accessed from environment variables
+const FRED_API_KEY = process.env.REACT_APP_FRED_API_KEY;
+const FMP_API_KEY = process.env.REACT_APP_FMP_API_KEY;
 
 // Main App Component
 const App = () => {
