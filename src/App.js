@@ -1,5 +1,5 @@
 import React from 'react';
-import { AreaChart, Area, XAxis, YAxis, Tooltip as RechartsTooltip, ResponsiveContainer, RadialBarChart, RadialBar } from 'recharts';
+import { AreaChart, Area, Tooltip as RechartsTooltip, ResponsiveContainer, RadialBarChart, RadialBar } from 'recharts';
 import { HelpCircle, TrendingUp, TrendingDown, Minus, Wifi, WifiOff } from 'lucide-react';
 
 // Shadcn UI Component Stubs (as we can't import them directly)
